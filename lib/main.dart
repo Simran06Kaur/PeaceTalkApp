@@ -4,6 +4,7 @@ import 'package:pc/theme.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pc/themeprovider.dart';
 
+// main function
 void main() {
   runApp(ProviderScope(child: App()));
 }
